@@ -1,0 +1,156 @@
+/* Sign in / Sign up*/
+.signImg {
+  height: 90px;
+  margin-bottom: 2.5rem;
+  margin-top: 2.5rem;
+}
+
+.signTitle {
+  color: #fb9100;
+}
+
+/* All Components*/
+.vComponent {
+  margin-bottom: 1.5rem;
+}
+
+.footer {
+  position: static;
+  background-color: #fb9100;
+  margin-top: 2.5rem;
+  text-align: center;
+  color: #000;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+/* NAV - Admin and User */
+.logoNav {
+  height: 30px;
+}
+
+a.adminNavDesktop {
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  font-weight: 400;
+}
+
+a.adminNavDesktop:hover {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+a.adminNavMobile {
+  color: #000;
+  text-decoration: none;
+}
+
+a.userMenu {
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+}
+
+a.userMenu:hover {
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+}
+
+/* titles */
+h1 {
+  color: #fb485c;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  color: #06bebf;
+  margin-top: 1rem;
+}
+
+h3 {
+  color: #fff;
+}
+
+/* User */
+/* VacationCard */
+.cardImg {
+  border-bottom: 4px solid #fb485c;
+}
+
+.cardHead {
+  padding-bottom: 0.5rem;
+}
+
+.desTitle {
+  color: #06bebf;
+}
+
+p.desc {
+  padding: 0.5rem 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+  margin: 0;
+}
+
+.likesShow {
+  padding: 0.5rem 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+  margin: 0;
+}
+
+.likeButton {
+  color: #ed4956;
+  margin-right: 0.5rem;
+}
+
+.likesShow .likesCounter {
+  display: inline;
+}
+
+.actionButton {
+  padding-top: 0.25rem;
+}
+
+.actionButton a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.actionButton a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.Demo__some-network {
+  display: inline;
+  margin: 2px;
+}
+
+svg.emailIcon rect {
+  fill: #da0020;
+}
+
+/* Vacation Page */
+.detailTitle {
+  color: #06bebf;
+}
+
+.vacationPageImg {
+  width: 40vw;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+h4.vacationDesc {
+  color: #fb9100;
+}
+
+/* Admin DashBoard */
+/* Admin Main */
+.adminCard {
+  color: #fb9100;
+}
+
+/* Modal - Add Vacation */
+.modal-dialog {
+  min-width: 50vw;
+}
